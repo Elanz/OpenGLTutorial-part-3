@@ -1,4 +1,4 @@
-OpenGLTutorial-part-2
+OpenGLTutorial-part-3
 =====================
 
 Companion project to the third article in my OpenGL tutorial series
